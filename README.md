@@ -2,7 +2,7 @@
 
 **Audio tools for making music.**
 
-I build Max for Live effects, analyzers and studio utilities. Current projects include **WakeSCOPE** and **WakeMetalizer**.
+I build Max for Live effects, analyzers and studio utilities. Current project: **WakeSCOPE**.
 
 I'm working toward cross-platform audio plugins for **macOS and Windows**.
 
