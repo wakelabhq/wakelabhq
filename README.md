@@ -1,4 +1,4 @@
-![wakelab](https://raw.githubusercontent.com/wakelabhq/wakelabhq/main/banner.png?wave=1)
+![wakelab](https://raw.githubusercontent.com/wakelabhq/wakelabhq/1579be9db8554e7a02128af417580c38e0eb683f/banner.png)
 
 **Audio tools for making music.**
 
