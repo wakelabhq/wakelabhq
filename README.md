@@ -8,4 +8,4 @@ Available on **macOS and Windows**.
 
 **Max / Max for Live · C++ · DSP**
 
-[wakelab on Boosty](https://boosty.to/waketools)
+[wakelab on Boosty](https://boosty.to/wakelabhq)
