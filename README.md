@@ -1,11 +1,14 @@
-![wakelab](https://raw.githubusercontent.com/wakelabhq/wakelabhq/1579be9db8554e7a02128af417580c38e0eb683f/banner.png)
+![wakelab](banner.png)
 
-**Audio tools for making music.**
+# wakelab
 
-I build Max for Live effects, analyzers and studio utilities. Current project: **WakeSCOPE**.
+Audio plugins and Max for Live devices for making music.
 
-Available on **macOS and Windows**.
+| Tool | Status | Find out more |
+| --- | --- | --- |
+| **wakeSCOPE** — stereo waveform analyzer for Ableton Live | Available for macOS and Windows | [Download and installation](https://wakelabhq.com/wakescope/) |
+| **wakeCRUSHER** — distortion, filtering and compression | Coming soon | [Product preview](https://wakelabhq.com/wakecrusher/) |
 
-**Max / Max for Live · C++ · DSP**
+Product source repositories remain private. Downloads, requirements and release notes are published on the website.
 
-[wakelab on Boosty](https://boosty.to/wakelabhq)
+[Explore the tools](https://wakelabhq.com/tools/) · [Support](https://wakelabhq.com/support.html) · [Back the lab on Boosty](https://boosty.to/wakelabhq)
